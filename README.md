@@ -7,9 +7,13 @@ the computations in the above paper:
 
 
 bicocurve.magma   : "computations for Theorem 2, (y choose 2)=(x choose 5)"
+
 bounds.m  : "computes Baker's bounds for log(x)"
+
 integralpoints.magma : "computations for Theorem 1, y^2-y=x^5-x" 
+
 MW1.m  : "Mordell-Weil sieves intrinsics"
+
 MWdemo.magma : "Mordell-Weil Sieve functions"
 
 To check the computations, load either bicocurve.magma or integralpoints.magma.
